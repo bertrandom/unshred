@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd">
+  <Question>
+    <QuestionIdentifier>answer</QuestionIdentifier>
+    <QuestionContent>
+      <FormattedContent><![CDATA[<h1>Move strips of an image around until the original image is formed</h1>
+<p>An image will be sliced into 20 vertical slices and randomized, you will need to put them back in the right order.</p>
+<p>Here is an example of an image you will need to solve:&nbsp;</p>
+<p><img alt="" src="http://unshred.recollect.com/example.jpg" /></p>
+<p>When you're ready, go this this url:</p>
+<h1><a href="http://unshred.recollect.com" target="_blank">http://unshred.recollect.com</a></h1>
+<p>and drag the slices around until the original image is formed, then click the <b>I'm done</b> button.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Enter your solution ID in the box below:</p>]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <FreeTextAnswer/>
+    </AnswerSpecification>
+  </Question>
+</QuestionForm>
